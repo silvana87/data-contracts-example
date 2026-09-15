@@ -1,0 +1,12 @@
+# Duenos por dominio del modelo de datos compartido
+/postgres/migrations/laytime/   @cmpc/laytime-team
+/postgres/docs/laytime/         @cmpc/laytime-team
+
+/postgres/migrations/auth/      @cmpc/platform-team
+/postgres/docs/auth/            @cmpc/platform-team
+
+/bigquery/schemas/supply_chain/ @cmpc/supply-chain-team
+/bigquery/docs/supply_chain/    @cmpc/supply-chain-team
+
+# Cambios a convenciones o gobernanza necesitan aprobacion de arquitectura
+/.kiro/steering/                @cmpc/arquitectura
